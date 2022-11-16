@@ -2,7 +2,7 @@
 
 This is the official implementation of the strong baseline TaCo, for the task of Zero-shot Logical Reasoning (ZsLR).
 
-**Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text** (TKDE Under Review)
+**Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text** (TNNLS Under Review)
 
 ## Generalized Zero-shot Logical Reasoning
 
