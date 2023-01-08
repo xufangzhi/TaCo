@@ -9,6 +9,7 @@ This is the official implementation of the strong baseline TaCo, for the task of
 It contains 17 reasoning types in total. ZsLR has 6 splits with different sampling strategies. The core is to train on seen types and test on unseen types (or both seen and unseen types for generalized setting). The splits are public at */ZsLR_split/.*
 
 ## Acknowledgement
-
+The ZsLR benchmark is modified from ReClor and LogiQA.
 
 ## Citation
+If you find it helpful, please kindly cite the paper.
